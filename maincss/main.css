@@ -557,7 +557,7 @@ Footer
 ===============
 */
 .footer {
-    background: #947a1e;
+    background: black;
     text-align: center;
     padding-left: 2rem;
     padding-right: 2rem;
@@ -585,7 +585,7 @@ Footer
 .footer-icon {
     font-size: 2rem;
     margin-right: 1rem;
-    color: var(--clr-primary-3);
+    color: white;
     transition: var(--transition);
 }
 
